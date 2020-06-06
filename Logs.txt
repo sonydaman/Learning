@@ -8,3 +8,10 @@ How to push and pull
         -- git add . (with we can add,delete and update the file into my specific commit)
         -- git commit -m "Adding Lessons,Chapter Folder" (with this we can commit the specific stage)
         -- git push (with this commands we can push the files into remote repositry)
+        Second option
+        -- click on source control
+        -- click on plus(+) icon in order to that all changes will up into the stage
+        -- Type message which changes you have been made.
+        -- click on right button
+        -- click on options button
+            --> choose push option
