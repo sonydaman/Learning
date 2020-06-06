@@ -1,0 +1,10 @@
+Clone ==> Done
+How to push and pull
+    push
+     --> we have to make changes in my local machine
+     --> 2 opions we have to push the changes 
+       First option 
+        -- go to the terminal (ctrl+`)
+        -- git add . (with we can add,delete and update the file into my specific commit)
+        -- git commit -m "Adding Lessons,Chapter Folder" (with this we can commit the specific stage)
+        -- git push (with this commands we can push the files into remote repositry)
