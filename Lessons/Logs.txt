@@ -1,0 +1,10 @@
+Start with html
+    hyper text markup language
+    set of code which make a web structure and with the help of html we can make web pages
+    --> Several elements eg.
+        html,head,meta,title,body
+    html4
+
+    html5
+        --> mostly using html5
+        audio,video,header,footer,article,section,
