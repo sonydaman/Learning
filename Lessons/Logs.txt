@@ -8,3 +8,8 @@ Start with html
     html5
         --> mostly using html5
         audio,video,header,footer,article,section,
+
+
+Home Work-->
+    -- in umesh folder chapter-1 folder make changes index.html
+    -- Take help from lessons->Chapter-1->Index.html
