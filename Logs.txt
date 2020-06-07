@@ -1,5 +1,14 @@
 Clone ==> Done
 How to push and pull
+    pull
+        we have 2 options
+        First Option from command
+        -- go to the terminal (ctrl+`)
+        -- git pull
+        Second option from Visual Studio
+        -- click on source control
+        -- click on options button
+            --> choose pull option
     push
      --> we have to make changes in my local machine
      --> 2 opions we have to push the changes 
