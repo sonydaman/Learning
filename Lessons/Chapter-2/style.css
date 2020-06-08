@@ -1,0 +1,21 @@
+/* eternal source of file */
+html,
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    /* internal source css 
+        . --> class
+        # --> id
+    */
+    .menu {
+        background-color: lightblue;
+        list-style: none;
+        padding: 1em;
+    }
+
+    .menu-items {
+        display: inline;
+        margin-left: 1em;
+    }

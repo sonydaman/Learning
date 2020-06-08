@@ -13,3 +13,18 @@ Start with html
 Home Work-->
     -- in umesh folder chapter-1 folder make changes index.html
     -- Take help from lessons->Chapter-1->Index.html
+
+CSS-->
+    CASCADE STYLE SHEET
+    --> External Source
+    --> Internal Source
+    --> Inline
+
+
+HomeWork is
+    html from w3 school
+    https://www.w3schools.com/html/default.asp
+    html id tak 
+    html form is also mandatory
+    css from w3 school
+    css align 
