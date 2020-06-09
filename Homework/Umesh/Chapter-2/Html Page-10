@@ -1,0 +1,29 @@
+
+
+    HTML Formating
+
+    HTML Contains several elements for defining text with special meaning.
+
+      HTML Formating elements
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+   <!DOCTYPE html>
+<html>
+<body>
+
+<p>This text is normal.</p>
+
+<p><b>This text is bold.</b></p>
+
+</body>
+</html>

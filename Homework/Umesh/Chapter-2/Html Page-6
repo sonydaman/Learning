@@ -1,0 +1,39 @@
+ 
+      HTML Attributes
+
+All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value
+
+                    href attribute
+ 
+   <!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+
+<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+</body>
+</html>
+
+
+
+     The src attribute
+
+     <!DOCTYPE html>
+<html>
+<body>
+
+<h2>The href Attribute</h2>
+
+<p>HTML links are defined with the a tag. The link address is specified in the href attribute:</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+</body>
+</html>
