@@ -28,3 +28,12 @@ HomeWork is
     html form is also mandatory
     css from w3 school
     css align 
+
+
+Bootstrap -- 3,4 choose 4
+    is a web framework where we have a few components.
+    with the help of components we can create our web pages.
+    https://getbootstrap.com/docs/4.5/getting-started/introduction/
+    1.) How to setup Bootstrap with html
+    2.) will try to use 2-3 components.
+
