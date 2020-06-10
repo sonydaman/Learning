@@ -1,0 +1,26 @@
+
+    HTML Quotation and Citation Elements
+
+     In this chapter we will go through the <q>, <blockquote>, <abbr>, <address>, <cite>, and <bdo>
+     HTML Elements.
+
+     The HTML <q> element defines a short quotation.
+     The HTML <blockquote> element defines a section that is quoted from another source.
+     The HTML <abbr> element defines an abbreviation or an acronym.
+     The HTML <address> element defines contact information (author/owner) of a document or an article.
+     The HTML <cite> element defines the title of a work.
+     The HTML <bdo> element defines bi-directional override.
+
+
+     <!DOCTYPE html>
+<html>
+<body>
+
+<p>Browsers usually indent blockquote elements.</p>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For nearly 60 years, WWF has been protecting the future of nature. The world's leading conservation organization, WWF works in 100 countries and is supported by more than one million members in the United States and close to five million globally.
+</blockquote>
+
+</body>
+</html>
