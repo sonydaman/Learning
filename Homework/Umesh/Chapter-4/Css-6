@@ -1,0 +1,26 @@
+
+  CSS Comments
+  Comments are used to explain the code, and may help when you edit the source code at a later date.
+  Comments are ignored by browsers.
+
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+/* This is
+a multi-line
+comment */
+
+p {
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>Hello World!</p>
+<p>This paragraph is styled with CSS.</p>
+<p>CSS comments are not shown in the output.</p>
+
+</body>
+</html>

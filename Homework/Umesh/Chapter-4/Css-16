@@ -1,0 +1,219 @@
+
+   CSS Fonts
+  
+  Font Family
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>CSS font-family</h1>
+<p class="serif">This is a paragraph, shown in the Times New Roman font.</p>
+<p class="sansserif">This is a paragraph, shown in the Arial font.</p>
+<p class="monospace">This is a paragraph, shown in the Lucida Console font.</p>
+
+</body>
+</html>
+
+    CSS Font Style
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+</style>
+</head>
+<body>
+
+<p class="normal">This is a paragraph in normal style.</p>
+<p class="italic">This is a paragraph in italic style.</p>
+<p class="oblique">This is a paragraph in oblique style.</p>
+
+</body>
+</html>
+   
+     CSS Font Size
+Set Font Size With Pixels
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+  
+   Set Font Size With Em
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 2.5em; /* 40px/16=2.5em */
+}
+
+h2 {
+  font-size: 1.875em; /* 30px/16=1.875em */
+ }
+
+p {
+  font-size: 0.875em; /* 14px/16=0.875em */
+}
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>Specifying the font-size in em allows all major browsers to resize the text.
+Unfortunately, there is still a problem with older versions of IE. When resizing the text,
+ it becomes larger/smaller than it should.</p>
+
+</body>
+</html>
+    
+    Use a Combination of Percent and Em
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-size: 100%;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 1.875em;
+}
+
+p {
+  font-size: 0.875em;
+}
+</style>
+</head>
+<body>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<p>This is a paragraph.</p>
+<p>Specifying the font-size in percent and em displays the same size in all major browsers,
+ and allows all browsers to resize the text!</p>
+
+</body>
+</html>
+
+     Responsive Font Size
+
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+
+<h1 style="font-size:10vw;">Responsive Text</h1>
+
+<p style="font-size:5vw;">Resize the browser window to see how the text size scales.</p>
+
+<p style="font-size:5vw;">Use the "vw" unit when sizing the text. 10vw will set the size to 10% of the viewport width.</p>
+
+<p>Viewport is the browser window size. 1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.</p>
+
+</body>
+</html>
+
+     CSS Google Fonts
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+body {
+  font-family: "Sofia";
+  font-size: 22px;
+}
+</style>
+</head>
+<body>
+
+<h1>Sofia Font</h1>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+
+</body>
+</html>
+
+      CSS Font Property
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.a {
+  font: 20px Arial, sans-serif;
+}
+
+p.b {
+  font: italic bold 12px/30px Georgia, serif;
+}
+</style>
+</head>
+<body>
+
+<h1>The font Property</h1>
+
+<p class="a">This is a paragraph. The font size is set to 20 pixels, and the font family is Arial.</p>
+
+<p class="b">This is a paragraph. The font is set to italic and bold, the font size is set to 12 pixels, the line height is set to 30 pixels, and the font family is Georgia.</p>
+
+</body>
+</html>
