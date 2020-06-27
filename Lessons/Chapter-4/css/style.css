@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    background-color: teal;
+    color: wheat;
+}
+h1{
+    text-align: center;
+    background-color: tomato;
+    padding: 10px;
+    font-size: 2.5em;
+}
+.table-info{
+    background-color: yellowgreen;
+    color: whitesmoke;
+    width: 50%;
+    padding: 1em;
+    margin: 1em;
+    font-size: 2em;
+    cursor: pointer;
+    
+}
+.table-info:hover{
+    background-color:whitesmoke ;
+    color: yellowgreen;
+}
+.table-data{
+    width: 50%;
+    
+}
+.table-data th,
+.table-data td{
+    border: 1px solid grey;
+    padding: .5em;
+    color: whitesmoke;
+}
+.table-data > tbody{
+    text-align: center;
+}
+
+.box-container{
+    border: 2px solid snow;
+}
+.box-container-flex{
+    border: 2px solid snow;
+    display: flex;
+}
+.box{
+    width: 50%;
+    height: 100px;
+    border: 2px solid snow;
+}
+.box-inline{
+    height: 100px;
+    margin: 0;
+    padding: 2em;
+    border: 2px solid snow;
+    display: inline-block;
+}
+.box-flex{
+    padding: 2em;
+    border: 2px solid snow;
+}
+.flex-2{
+    flex:2;
+}
+.flex-4{
+    flex-basis: 40%;
+}

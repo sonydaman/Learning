@@ -37,3 +37,14 @@ Bootstrap -- 3,4 choose 4
     1.) How to setup Bootstrap with html
     2.) will try to use 2-3 components.
 
+Chapter-4
+    font-awesome
+    form->html      Done
+    css
+        table   Done
+        position Pending(absolute,relative,static,fixed,sticky)
+        display Done
+    HomeWork
+        -->Table --> row -> color should be change when mouse over into the row
+        --> display ->flex,block,inline-block,inline
+        --> float ->left,right
