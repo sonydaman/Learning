@@ -14,14 +14,15 @@ h1{
     color: whitesmoke;
     width: 50%;
     padding: 1em;
-    margin: 1em;
+    margin: 2em;
     font-size: 2em;
     cursor: pointer;
-    
+    transition: all .8s ease-in-out;
 }
 .table-info:hover{
     background-color:whitesmoke ;
     color: yellowgreen;
+    transform: scale(1.1);
 }
 .table-data{
     width: 50%;
